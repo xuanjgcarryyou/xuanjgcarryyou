@@ -9,7 +9,7 @@ I'm a passionate developer who loves building web apps, exploring AI, and learni
 - 🧠 Machine Learning
 
 ## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![my dear~](https://raw.githubusercontent.com/xuanjgcarryyou/你的repo名稱/main/myproject.png)
 
 ## 🔗 Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)
