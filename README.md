@@ -8,7 +8,7 @@ I'm a passionate developer who loves building web apps, exploring AI, and learni
 - ☁️ Docker / Kubernetes
 - 🧠 Machine Learning
 
-## 📊 GitHub Stats
+## 📊 :D
 ![my dear~](https://raw.githubusercontent.com/xuanjgcarryyou/xuanjgcarryyou/main/image.png)
 This is me and my girl~
 ## 🔗 Find me
