@@ -4,7 +4,7 @@ I'm a passionate developer who loves building web apps, exploring AI, and learni
 
 ## 🚀 Skills
 - 🖥️ HTML / CSS / JavaScript
-- ⚙️ C / C####
+- ⚙️ C / C#
 - ☁️ Docker / Kubernetes
 - 🧠 Machine Learning
 
