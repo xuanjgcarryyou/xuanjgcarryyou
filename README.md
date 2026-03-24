@@ -1,15 +1,14 @@
 # 👋 Hello! I'm xiaoxuan
 
-I'm a passionate developer who loves building web apps, exploring AI, and learning new tech.(lol that's not true:( )
+I'm from taiwan~! my learning was not really fast but i'll try harder
 
-## 🚀 Skills
+## 🚀 Skill learning~ 
 - 🖥️ HTML / CSS / JavaScript
-- ⚙️ C / C#
+- ⚙️ C / C# / golang
 - ☁️ Docker / Kubernetes
-- 🧠 Machine Learning
+- 🧠 vibe coding
 
 ## 📊 :D
 ![my dear~](https://raw.githubusercontent.com/xuanjgcarryyou/xuanjgcarryyou/main/image.png)
-This is me and my girl~
 ## 🔗 Find me
 [![instergram](https://www.instagram.com/wei._.8.25/)](https://www.instagram.com/wei._.8.25/)
